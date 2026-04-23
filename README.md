@@ -102,5 +102,5 @@ If you found this project useful:
 ⭐ Give it a star on GitHub
 💬 Share your feedback
 👩‍💻 Author
-Tasneem Faisal
-Data Scientist | Machine Learning Developer
+Engy Safwat  
+Machine Learning Developer

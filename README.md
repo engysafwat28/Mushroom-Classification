@@ -1,6 +1,7 @@
-# Mushroom-Classification
-Machine learning project developed as part of a Kaggle competition to classify mushrooms as edible or poisonous based on their features. Includes data preprocessing, feature engineering, and model optimization.
- Mushroom Classification - Kaggle Competition
+Mushroom-Classification
+This project is part of a Kaggle competition focused on predicting whether a mushroom is ''edible or poisonous'' based on its features.
+
+🍄 Mushroom Classification - Kaggle Competition
 Python Machine Learning Kaggle Status
 
 🚀 Project Overview
@@ -102,5 +103,5 @@ If you found this project useful:
 ⭐ Give it a star on GitHub
 💬 Share your feedback
 👩‍💻 Author
-Tasneem Faisal
-Data Scientist | Machine Learning Developer
+Engy Safwat  
+Machine Learning Developer
